@@ -1,0 +1,6 @@
+framework module HRLogger {
+  umbrella header "HRLogger-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+use_frameworks!
+target 'HRLogger_Tests' do
+  pod 'HRLogger', :path => '../'
+  
+  
+end

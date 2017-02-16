@@ -1,0 +1,16 @@
+PODS:
+  - HRLogger (0.1.0)
+
+DEPENDENCIES:
+  - HRLogger (from `../`)
+
+EXTERNAL SOURCES:
+  HRLogger:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HRLogger: 9e3e84af4e6d1e9221671cb9d05e1d03b1383430
+
+PODFILE CHECKSUM: 1d9b471f437251a188402f322394a6c778bdc1e8
+
+COCOAPODS: 1.2.0.beta.1
